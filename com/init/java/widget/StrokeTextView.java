@@ -1,4 +1,4 @@
-package com.init.weblica;
+package com.init.java.widget;
 
 import android.content.Context;
 import android.graphics.Canvas;
